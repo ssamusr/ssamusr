@@ -15,6 +15,6 @@
 &nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-499D4A?style=for-the-badge&logo=mongoDB&logoColor=white)
 
 ### 🙌🏻 Connect with Me
-- <p><a href="https://www.linkedin.com/in/samuelsrodriguez/" target="_blank" rel="noreferrer noopener">Linkedin</p>
-- <p><a href="https://twitter.com/ssamusr" target="_blank"</a>Twitter</p>
-- <p><a href="samusr@gmail.com" target="_blank"</a>Email</p>
+- <a href="https://www.linkedin.com/in/samuelsrodriguez/" target="_blank" rel="noreferrer noopener">Linkedin</a>
+- <a href="https://twitter.com/ssamusr" target="_blank" rel="noreferrer noopener">Twitter</a>
+- <a href="mailto:samusr@gmail.com" target="_blank" rel="noreferrer noopener">Email</a>
