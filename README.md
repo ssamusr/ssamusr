@@ -7,7 +7,6 @@
 &nbsp;![Tailwind](https://img.shields.io/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 &nbsp;![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 &nbsp;![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-&nbsp;![Redux](https://img.shields.io/badge/Redux-7E57C2?style=for-the-badge&logo=redux&logoColor=white)
 
 ## 🌱 I'm learning
 ![NextJS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)
