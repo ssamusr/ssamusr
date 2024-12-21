@@ -25,6 +25,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ssamusr/where_to_stream" title="Coleguita's Adventure | ssamusr">
+      <img width="45%" src="https://github.com/user-attachments/assets/8baef55e-7b45-4d8d-970f-4dcd4874f17e">
+      <img width="45%" src="https://github.com/user-attachments/assets/fb47b4fc-ed90-4cc6-bb7a-5d5fca7d5920">
+  </a>
+</p>
+
 ### 🙌🏻 Connect with Me
 - <a href="https://www.linkedin.com/in/samuelsrodriguez/" target="_blank" rel="noreferrer noopener">Linkedin</a>
 - <a href="https://twitter.com/ssamusr" target="_blank" rel="noreferrer noopener">Twitter</a>
